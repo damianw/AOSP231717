@@ -14,3 +14,5 @@ The issue itself can be found [here](https://issuetracker.google.com/issues/3713
 1. Flick the `RecyclerView` so that it coasts.
 1. Press the home button while the view is still settling.
 1. Observe the exception.
+
+Additionally, it may be necessary to enable "Don't keep activities" in the developer settings.
